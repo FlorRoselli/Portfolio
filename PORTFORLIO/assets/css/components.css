@@ -1,0 +1,42 @@
+/* Navigation */
+.main-nav {
+    display: flex;
+    justify-content:space-between;
+}
+.main-nav li {
+    display: inline-block;
+}
+.main-nav a {
+    color: rgb(51, 49, 49);
+    font-weight: 500;
+    font-size: 0.9rem;
+    padding: 10px 20px;
+    display: inline-block;
+}
+/* greeting */
+.greeting-box{
+    margin-top: 200px;
+}
+/*progress bar*/
+.progress-conteiner{
+    border-radius: 10px;
+    height: 0.5rem;
+    background-color: rgb(167, 167, 167);
+    
+}
+.progress {
+    height: 0.5rem;
+    background-color: royalblue;
+    border-radius: 10px;
+   
+}
+.progress-percent-80 {
+    width: 80%;
+}
+.progress-percent-70 {
+    width: 70%;
+}
+
+.progress-percent-50 {
+    width: 50%;
+}

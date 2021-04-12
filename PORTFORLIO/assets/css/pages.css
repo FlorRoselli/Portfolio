@@ -1,0 +1,14 @@
+/* ================ Index/home ==================*/
+/*==================== Intro ==============*/
+.intro {
+    min-height: 100vh;
+    background-color: whitesmoke;
+   
+}
+.intro-greeting {
+    font-size: 1.2rem;
+}
+/*==========about me=====*/
+.about-me-description {
+    min-height: 400px;
+}
